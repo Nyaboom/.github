@@ -2,7 +2,7 @@
 
 We are Nyaboom, a collective of people dedicated to exploding.
 
-Our #1 sponsor is the Java foundation, dedicated to helping people move away from Kotlin and switch to the almighty Java.
+Our #1 sponsor is the Kotlin foundation, dedicated to helping people move away from Java and switch to the almighty Kotlin.
 
 Anyway since I'm lazy to actually write something good take this and predent its good
 
@@ -14,4 +14,4 @@ Anyway since I'm lazy to actually write something good take this and predent its
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<img src="https://cdn.discordapp.com/attachments/1026504914131759104/1239235657264791593/images.png?ex=66422fa4&is=6640de24&hm=cc3ccb93ab6358a2640c2e8535dd821ab876eaac09f1d94e6fd5fc43805abca7&">
+<img src="https://blog.jetbrains.com/wp-content/uploads/2023/04/DSGN-16174-Blog-post-banner-and-promo-materials-for-post-about-Kotlin-mascot_3.png">
