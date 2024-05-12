@@ -4,7 +4,7 @@ We are Nyaboom, a collective of people dedicated to exploding.
 
 Our #1 sponsor is the Kotlin foundation, dedicated to helping people move away from Java and switch to the almighty Kotlin.
 
-Anyway since I'm lazy to actually write something good take this and predent its good
+Anyway since I'm lazy to actually write something good take this and pretend it's good
 
 **Here are some ideas to get you started:**
 
