@@ -13,3 +13,5 @@ Anyway since I'm lazy to actually write something good take this and predent its
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<img src="https://cdn.discordapp.com/attachments/1026504914131759104/1239235657264791593/images.png?ex=66422fa4&is=6640de24&hm=cc3ccb93ab6358a2640c2e8535dd821ab876eaac09f1d94e6fd5fc43805abca7&">
