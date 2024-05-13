@@ -1,3 +1,7 @@
+$$
+\color{orange}\fbox{\textbf{\textsf{NYABOOM}}}
+$$
+
 ## Hi there 👋
 
 💣 We are Nyaboom, a collective of people dedicated to exploding.
