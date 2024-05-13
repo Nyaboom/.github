@@ -7,6 +7,7 @@ $$
 💣 We are Nyaboom, a collective of people dedicated to exploding.
 
 💰 Our #1 sponsor is the Groovy foundation, dedicated to helping people move away from Java and switch to the almighty Groovy.
+> However, who cares about our sponsors? Half of our code is in Java because Java is best language.
 
 🌈 If you want to contribute then do, we just make insane things for some reason.
 
